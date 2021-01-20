@@ -6,16 +6,22 @@
 WEB (витрина и панель управления)
 
 • Laravel - PHP-фреймворк
+
 • База данных MySQL
+
 • Bootstrap - на основе дизайна Argon от Creative Tim
+
 • React JS
+
 • Готовность к работе с мобильными устройствами - витрина и панель управления
 
 Версия программного обеспечения
+
 PHP 7.x, MySQL 4.x,
 MySQL 5.x
 
 Файлы включены
+
 JavaScript JS, JavaScript JSON, HTML, CSS, Sass, PHP
 
 # Инструкции по установке
