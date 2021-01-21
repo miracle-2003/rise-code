@@ -74,7 +74,7 @@ RISE - это автономное веб-приложение, написанн
 
 Процесс создания базы данных примерно такой
 # 
-<img src="https://cloud.mail.ru/public/ufCW/JwUdTJRw2" alt="logo" width="300" data-canonical-src="https://cloud.mail.ru/public/ufCW/JwUdTJRw2" style="max-width:100%;">
+<img src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/ufCW/JwUdTJRw2?x-email=baku.kg03%40mail.ru" alt="logo" width="300" data-canonical-src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/ufCW/JwUdTJRw2?x-email=baku.kg03%40mail.ru" style="max-width:100%;">
 # 
 3. Загрузите исходный код, который вы получили от Разработчика, и распакуйте его.
 # 
