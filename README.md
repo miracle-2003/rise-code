@@ -2,7 +2,6 @@
 описание и тд
 
 # Список технологий на сайте
-<img src="https://t.me/risekg/2" alt="logo" width="300" data-canonical-src="https://oss.redislabs.com/redisearch/img/logo.svg" style="max-width:100%;">
 
 WEB (витрина и панель управления)
 
@@ -75,7 +74,7 @@ RISE - это автономное веб-приложение, написанн
 
 Процесс создания базы данных примерно такой
 # 
-Фото: https://t.me/risekg/2
+<img src="https://cloud.mail.ru/public/ufCW/JwUdTJRw2" alt="logo" width="300" data-canonical-src="https://cloud.mail.ru/public/ufCW/JwUdTJRw2" style="max-width:100%;">
 # 
 3. Загрузите исходный код, который вы получили от Разработчика, и распакуйте его.
 # 
