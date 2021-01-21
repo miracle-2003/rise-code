@@ -2,7 +2,7 @@
 описание и тд
 
 # Список технологий на сайте
-<img src="https://camo.githubusercontent.com/04455a27979af3d7d0ce8f64527a6db8e3c609a6a694482120c833fcfdb1d4f7/68747470733a2f2f6f73732e72656469736c6162732e636f6d2f726564697365617263682f696d672f6c6f676f2e737667" alt="logo" width="300" data-canonical-src="https://oss.redislabs.com/redisearch/img/logo.svg" style="max-width:100%;">
+<img src="https://t.me/risekg/2" alt="logo" width="300" data-canonical-src="https://oss.redislabs.com/redisearch/img/logo.svg" style="max-width:100%;">
 
 WEB (витрина и панель управления)
 
