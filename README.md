@@ -75,7 +75,7 @@ RISE - это автономное веб-приложение, написанн
 Процесс создания базы данных примерно такой
 # 
 
-$ curl -I https://thumb.cloud.mail.ru/thumb/xw1/1.jpg
+$ curl -I https://cloud.mail.ru/public/ufCW/JwUdTJRw2
 > HTTP/1.1 200 OK
 > Expires: Fri, 01 Jan 1984 00:00:00 GMT
 > Content-Type: image/png
