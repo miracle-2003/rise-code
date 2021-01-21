@@ -86,21 +86,21 @@ RISE - это автономное веб-приложение, написанн
 # 
 Щелкните «Проверить требования». Если некоторые требования отсутствуют, они будут отмечены.
 # 
-Фото: https://t.me/risekg/3
+<img src="http://aston.aston.fun/2.jpg"  width="300" style="max-width:100%;">
 # 
 Теперь проверим права доступа к папке. Если какая-то папка отмечена как недоступная для записи, проверьте его разрешение. Должно быть 775 или 777
 
-Фото: https://t.me/risekg/4
+<img src="http://aston.aston.fun/3.jpg"  width="300" style="max-width:100%;">
 # 
 
 Теперь нам нужно настроить среду. Это говорит Laravel, как работать
 
-Фото: https://t.me/risekg/5
+<img src="http://aston.aston.fun/4.jpg"  width="300" style="max-width:100%;">
 # 
 
 Выберите классический текстовый редактор.
 
-Фото: https://t.me/risekg/6
+<img src="http://aston.aston.fun/5.jpg"  width="300" style="max-width:100%;">
 # 
 
 5. Конфигурация среды
@@ -120,7 +120,7 @@ APP_URL = URL вашего веб-сайта идет сюда
 
 Когда вы закончите с этой конфигурацией, не забудьте сохранить файл.
 
-Фото: https://t.me/risekg/6
+<img src="http://aston.aston.fun/6.jpg"  width="300" style="max-width:100%;">
 # 
 
 
